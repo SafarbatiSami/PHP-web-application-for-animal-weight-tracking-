@@ -1,6 +1,6 @@
 *.php linguist-language=PHP
 
-searchbar.php  linguist-language=PHP
-sidebar.php  linguist-language=PHP
-index 2.php  linguist-language=PHP
+/searchbar.php  linguist-language=PHP
+/sidebar.php  linguist-language=PHP
+/index 2.php  linguist-language=PHP
 *.css linguist-detectable=false
